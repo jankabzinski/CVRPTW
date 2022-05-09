@@ -1,2 +1,2 @@
-# CVRPTW - Capacitated Vehicle Problem with time windows
+# CVRPTW - Capacitated Vehicle Routing Problem with Time Windows
 Jan Kabziński
